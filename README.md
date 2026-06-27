@@ -105,11 +105,11 @@ The system then recommends personalized retention strategies such as:
 
 ### Streamlit Recommendation Engine
 
-![Recommendation Engine](Screenshots/recommendation_engine.png)
+![Recommendation Engine](recommendation_engine.png)
 
 ### Tableau Dashboard
 
-![Dashboard](Screenshots/Dashboard_tableau.png)
+![Dashboard](Dashboard_tableau.png)
 
 ---
 

@@ -6,14 +6,14 @@ An end-to-end Customer Retention Analytics platform that combines SQL, Tableau, 
 
 ## 📌 Project Overview
 
-Customer churn is one of the biggest challenges faced by subscription-based businesses like Netflix. This project analyzes customer behavior, identifies churn patterns, and provides personalized retention strategies using a rule-based AI recommendation engine.
+Customer churn is one of the biggest challenges faced by subscription-based businesses like Netflix. This project analyzes customer behavior, identifies churn patterns, and provides personalized retention strategies using a heuristic retention recommendation system.
 
 The project covers the complete analytics lifecycle:
 
 - Excel Data Exploration
 - SQL Data Cleaning & Business Analysis
 - Tableau Business Dashboard
-- Python AI Recommendation Engine
+- Python Scoring Recommendation Engine
 - Streamlit Web Application
 
 ---
@@ -52,11 +52,13 @@ Netflix-Customer-Retention-Intelligence-Platform/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── data.csv
-├── sql/
-├── tableau/
-├── screenshots/
-└── demo/
+├── Data_netflix.csv
+├── Netflix_data_cleaning.sql
+├── Netflix_churn_analysis.sql
+├── Customer_churn_analysis.xlsx
+├── Netflix_customer_retention_dashboard.twb
+├── recommendation_engine.png
+└── Dashboard_tableau.png
 ```
 
 ---

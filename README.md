@@ -114,6 +114,9 @@ The system then recommends personalized retention strategies such as:
 
 ![Dashboard](Dashboard_tableau.png)
 
+### Excel Dashboard
+![Dashboard](Excel analysis.png)
+
 ---
 
 ## ⚙️ Installation

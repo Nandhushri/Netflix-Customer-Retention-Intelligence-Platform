@@ -2,6 +2,7 @@
 
 An end-to-end Customer Retention Analytics platform that combines SQL, Tableau, Python, and Streamlit to identify at-risk customers and generate intelligent retention recommendations.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://netflix-customer-retention-intelligence-platform-gb5rzp3xvjyy9.streamlit.app/)
 ---
 
 ## 📌 Project Overview
